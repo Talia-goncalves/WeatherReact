@@ -1,0 +1,13 @@
+.SearchContainer {
+  background-color: grey;
+}
+
+.SearchInput {
+  width: 80%;
+  height: 50px;
+  font-size: large;
+}
+
+.SearchButton {
+  font-size: 30px;
+}

@@ -1,0 +1,29 @@
+span {
+  display: flex;
+  align-items: center;
+}
+
+.Cidade {
+  margin-right: 80px;
+}
+
+.Condicao {
+  text-align: end;
+  width: 180px;
+}
+
+.TempContainer h1 {
+  margin: 0;
+}
+
+.TempContainer p,
+h4 {
+  margin: 5px;
+}
+
+.TempContainer {
+  margin-top: 50px;
+  padding: 5%;
+  border: 2px black solid;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px;
+}
